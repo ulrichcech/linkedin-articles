@@ -1,16 +1,16 @@
-![](12476ac86ef526ed15e54533475c81f7866bead69c6fbe3e95f7b64dd692dbb7.jpg)
+![](12476ac86ef526ed15e54533475c81f7866bead69c6fbe3e95f7b64dd692dbb7.png)
 
 
 # Effektiv arbeiten mit Paperclip
 
 ## Ein praktisches Tutorial für produktive Multi-Agent-Workflows
 
-**Autor**: Ulrich Cech
-**Zielgruppe:** Entwickler, Architekten, Produktverantwortliche und Solo-Founder, die Paperclip strukturiert einsetzen möchten
-**Voraussetzung:** Eine lauffähige Paperclip-Installation
-**Stand:** 05.05.2026, geprüft gegen Paperclip-Stand vom selben Datum
-**Quellen (Markdown + Templates):** https://github.com/ulrichcech/linkedin-articles/tree/main/paperclip-workflow
-**Erfahrungsbasis:** Zwei Wochen aktive Arbeit mit Paperclip im fiktiven Projekt ChronoX. Die Beispiele und Konventionen sind kein „Best Practice nach Jahren Erfahrung", sondern eine erste, ehrliche Bestandsaufnahme — gedacht als Startpunkt, nicht als Endpunkt.
+**Autor**: Ulrich Cech  
+**Zielgruppe:** Entwickler, Architekten, Produktverantwortliche und Solo-Founder, die Paperclip strukturiert einsetzen möchten  
+**Voraussetzung:** Eine lauffähige Paperclip-Installation  
+**Quellen (Markdown + Templates):** https://github.com/ulrichcech/linkedin-articles/tree/main/paperclip-workflow  
+**Erfahrungsbasis:** Zwei Wochen aktive Arbeit mit Paperclip im fiktiven Projekt ChronoX. Die Beispiele und Konventionen sind kein „Best Practice nach Jahren Erfahrung", sondern eine erste, ehrliche Bestandsaufnahme — gedacht als Startpunkt, nicht als Endpunkt.  
+**Stand:** 07.05.2026    
 
 ---
 
