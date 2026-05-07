@@ -48,6 +48,9 @@ Darin geht es unter anderem um:
 
 Das vollständige PDF (~60 Seiten mit Templates, Beispielen und Checklisten) habe ich diesem Beitrag angehängt.
 
+Tutorial und Templates als Markdown-Quellen findest Du außerdem hier:
+https://github.com/ulrichcech/linkedin-articles/tree/main/paperclip-workflow
+
 
 Wie organisiert Ihr aktuell die Arbeit mit KI-Agenten?
 

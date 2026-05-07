@@ -9,6 +9,7 @@
 **Zielgruppe:** Entwickler, Architekten, Produktverantwortliche und Solo-Founder, die Paperclip strukturiert einsetzen möchten
 **Voraussetzung:** Eine lauffähige Paperclip-Installation
 **Stand:** 05.05.2026, geprüft gegen Paperclip-Stand vom selben Datum
+**Quellen (Markdown + Templates):** https://github.com/ulrichcech/linkedin-articles/tree/main/paperclip-workflow
 **Erfahrungsbasis:** Zwei Wochen aktive Arbeit mit Paperclip im fiktiven Projekt ChronoX. Die Beispiele und Konventionen sind kein „Best Practice nach Jahren Erfahrung", sondern eine erste, ehrliche Bestandsaufnahme — gedacht als Startpunkt, nicht als Endpunkt.
 
 ---
@@ -2744,12 +2745,13 @@ Die Anhänge sind bewusst keine abstrakten Templates, sondern ein vollständiges
 
 # 25. Quellen
 
+- Tutorial- und Template-Quellen (dieses Repo): https://github.com/ulrichcech/linkedin-articles/tree/main/paperclip-workflow
 - Paperclip GitHub Repository: https://github.com/paperclipai/paperclip
 - Paperclip Website: https://paperclip.ing/
 - Paperclip Documentation: https://docs.paperclip.ing/ (Mintlify; Inhalte können je nach Build-Stand zeitweise nicht laden)
 - OpenClaw Documentation, Heartbeat-Konzept und `HEARTBEAT.md`: https://docs.openclaw.ai/gateway/heartbeat
 - OpenClaw Repository: https://github.com/openclaw/openclaw
 - AGENTS.md Open Format: https://agents.md/
-- GitHub Issue #49 zu Chat mit Agenten: https://github.com/paperclipai/paperclip/issues/49 (belegt, dass Paperclip bewusst kein Chatfenster anbietet)
+- GitHub Issue #49 zu Chat mit Agenten: https://github.com/paperclipai/paperclip/issues/49 (Feature Request für ein Chat-Interface — dokumentiert, dass Paperclip aktuell kein Chatfenster mitbringt)
 
 ---
