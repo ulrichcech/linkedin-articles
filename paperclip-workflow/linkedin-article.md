@@ -14,7 +14,7 @@ Man braucht Organisation:
 - `TASKS.md`: Was ist der aktuelle Fokus, was ist als Nächstes dran, was wurde bewusst zurückgestellt?
 - `HEARTBEAT.md`: Wann arbeiten welche Agenten, mit welchem Budget, in welcher Taktung?
 
-Das ist mein Setup nach zwei Wochen Paperclip. Kein Best Practice, sondern ein erstes Destillat — und genau so ist auch das verlinkte Tutorial gedacht.
+Das ist mein Setup nach zwei Wochen Paperclip. Kein Best Practice, sondern ein erster strukturierter Zwischenstand - und genau so ist auch das verlinkte Tutorial gedacht.
 
 Besonders hilfreich finde ich explizite Task-Modes:
 
